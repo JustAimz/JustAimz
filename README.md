@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustAimz
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning Front-end Web Development
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - Email: rpana81@gmail.com | Instagram: @pana.ptm
 
